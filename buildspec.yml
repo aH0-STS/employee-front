@@ -6,7 +6,7 @@ env:
     ECR_REPO: "522814735019.dkr.ecr.us-east-1.amazonaws.com/employeefront"
     IMAGE_TAG: "latest"
  
-#phases:
+phases:
   install:
     runtime-versions:
       nodejs: 16
